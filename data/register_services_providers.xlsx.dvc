@@ -1,0 +1,5 @@
+outs:
+- md5: 3249cb5f6a818177a6ab1482d6c88973
+  size: 185446
+  hash: md5
+  path: register_services_providers.xlsx
